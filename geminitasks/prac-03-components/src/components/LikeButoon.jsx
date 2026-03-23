@@ -8,7 +8,7 @@ function LikeButton() {
     <div>
       <p>Likes: {likes}</p>
       {/* 2. Update state when clicked */}
-      <button style={{cursor:"pointer"}} onClick={() =>{likes<100 ?setLikes(likes + 1) : alert("maximum like limit reached !")}} >
+      <button style={{cursor:"pointer"}} onClick={() =>{likes<100 ?setLikes(likes + 10) : alert("maximum like limit reached !")}} >
         Pasand Aaya! 👍
       </button>
     </div>

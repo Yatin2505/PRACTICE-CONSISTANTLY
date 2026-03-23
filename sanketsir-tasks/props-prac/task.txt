@@ -1,0 +1,6 @@
+1.	Course Card Task
+CourseCard component banao. Props destructuring use karke courseName, trainer, duration, fees, isAvailable display karo. Agar isAvailable true ho to Enroll Now, warna Closed show karo.
+	2.	Movie Card Task
+MovieCard component banao. Props destructuring ke through title, rating, genre, releaseYear, isHit lo. Agar isHit true ho to Superhit, warna Average show karo.
+	3.	Job Card Task
+JobCard component banao. Props destructuring use karke companyName, role, salary, location, isRemote display karo. Agar isRemote true ho to Remote Job, warna Onsite Job show karo.
