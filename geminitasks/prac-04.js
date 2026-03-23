@@ -1,3 +1,5 @@
+
+
 const [laptops, setLaptops] = useState([
   { id: 1, brand: "HP", price: 55000 },
   { id: 2, brand: "Dell", price: 62000 }
